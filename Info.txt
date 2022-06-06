@@ -1,0 +1,18 @@
+Portfolio: https://typeluis-portfolio.netlify.app
+Bio : Portfolio website that shows my projects and skills. Portfolio also has a form to contact me through email with links at the bottom of page.
+
+
+My Page: https://my-page-blog.netlify.app/
+Description : A blog page where a user signs up and can write posts on their page, add videos from YouTube, and customize. 
+
+
+Anime Search: https://anime-query.netlify.app/
+Description : A user can search through multiple anime shows/movies and when signed up, can add a show to watched & favorite
+
+
+Store Search: https://store-search.netlify.app/
+Description: A user can search for any product from eBay or from Newegg. When signed up a user can add cart and purchase.
+
+
+Dodge the Block: https://dodge-the-block.netlify.app/
+Description: A complex frontend game that utilizes DOM manipulation to control the blocks and in game shop. 
