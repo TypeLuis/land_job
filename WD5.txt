@@ -1,0 +1,57 @@
+Expirence:
+
+Job Title: Software Engineer
+Company: General Assembly
+Location: Remote
+Date: 2021 - 2022
+Description :
+
+● Led various projects from inception to completion, utilizing HTML, CSS, JavaScript, ReactJS, Node,
+Postgres, Express, SQL, Python, and Flask which increased task efficiency by 40%.
+● Demonstrated leadership ability by managing a team of 5 software engineers
+● Used agile methodology to develop the application within the set deadlines.
+● Implemented new features and functionalities suggested by the UI/UX developers to improve user
+experience.
+● Provided coding assistance to students during teacher-led classroom instruction.
+● Created APIs and leveraging third party api while integrating them into websites and applications.
+● Successfully deployed full-stack applications and ensured they were able to handle high traffic.
+
+
+Job Title: Sales Associate
+Company: Barnes & Noble
+Location: New York, New York
+Date: 03/2017 - 05/2019
+Description:
+
+● Asked questions to ensure customer’s needs, recommending products based on store knowledge
+● Based on extensive product knowledge, recommended products to customers in order to meet their
+needs
+● Exceeded sales goals by 10% through providing excellent customer service and displaying expert
+knowledge of store inventory
+● Helped to organize the store's book section, making it more inviting and appealing to customers
+● Satisfied customers by finding the best sales deals and supplying accurate product information.
+------------------
+
+
+Skills:
+
+Javascript, HTML, CSS, SCSS, JQuery, Express.js, React.js, Flask, Next.js, PostgreSQL, Python, Node.js, Bootstrap
+
+Responsive Design, Authentication, User Stories, ERDs, Wireframing, Agile
+
+Git, GitHub, Heroku, Netlify, Command Line, Ubuntu
+
+Problem Solving, Communication, Leadership, Optimization, Data Structures,Web API, 
+Data Analysis, Front-End Web Development, Full-Stack Web Development, Web
+Scraping
+
+
+-----------
+
+Websites:
+
+Portfolio: https://typeluis-portfolio.netlify.app
+
+LinkedIn : https://www.linkedin.com/in/luis-lopez-192565227/
+
+GitHub: https://github.com/TypeLuis
