@@ -1,0 +1,8 @@
+You can commit with amend and date switches, if you want to continue your streak:
+
+git add .
+git commit -m "<message>"
+git commit --amend --date="2022-11-05" --no-edit
+git push origin main
+
+Done✅
